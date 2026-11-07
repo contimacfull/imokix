@@ -1,4 +1,4 @@
-# Imokix — Terms, Privacy, Support and Licences
+# Imokix — Terms, Privacy and Support
 
 App: **Imokix**. Last updated: 2026-11-07.
 
@@ -23,12 +23,8 @@ Common questions: *How do I back up?* Open Backup, create the file, then "Save t
                   8. ## Privacy
                   9. No account, no server, no analytics, no advertising, no third-party code. All data stays on your device. Camera and photo library are used only for inspection and home photos. Microphone and speech recognition are used only while you dictate, on-device only; no audio is stored. Files leave the app only when you save or share them. Your device's iOS or iCloud backup may include the app's data depending on your own Apple settings; the app cannot check or control that.
                  
-                  10. ## Third-party components and licences
-                  11. No third-party code libraries are included. Fonts bundled with the app, both under the SIL Open Font License 1.1 (free for commercial use; the licence text and copyright notice must accompany redistribution of the font files, and they are included in the app package):
-                  12. - **Inter** — © The Inter Project Authors — https://github.com/rsms/inter
-                      - - **Fraunces** — © The Fraunces Project Authors — https://github.com/undercasetype/Fraunces
-                       
-                        - All other visuals (colours, icons, illustrations) were created for this app. System symbols (SF Symbols) are used under Apple's licence for apps on Apple platforms.
-                       
-                        - *This page describes the app's behaviour and is not legal advice.*
+                  10. ## Required notices
+                  11. The app bundles two fonts under the SIL Open Font License 1.1, which requires their copyright notice and licence text to accompany the font files (they are included in the app package):
+                  12. - Inter — Copyright The Inter Project Authors (https://github.com/rsms/inter)
+                      - - Fraunces — Copyright The Fraunces Project Authors (https://github.com/undercasetype/Fraunces)
                         - 
